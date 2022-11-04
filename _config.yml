@@ -5,12 +5,20 @@ description: >-
   I have something to say so I say it.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: alxwnth
-github_username:  alxwnth
 
-# Build settings
-theme: minima
+kramdown:
+  input: GFM
+permalink: pretty
+
+google_analytics:
+disqus_shortname: 
+
+github: https://github.com/alxwnth
+twitter: http://twitter.com/alxwnth
+
 plugins:
-  - jekyll-feed
+  - jekyll-sitemap
+
+exclude: ["LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script"]
 
 permalink: /:year/:month/:day/:title/
