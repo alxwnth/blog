@@ -5,7 +5,7 @@ date:   2022-07-02 00:00:00 +0200
 categories: tech
 ---
 
-![](https://ik.imagekit.io/alxwnth/Alex_s_Thoughts_Archive/Project_20220702_0001_1_.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667572620811)
+<img src="https://ik.imagekit.io/alxwnth/Alex_s_Thoughts_Archive/Project_20220702_0001_1_.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667572620811" width="70%" class="float-left"/>
 
 Today we are up for an entertaining challenge posed to answer a question that many die-hard fans of quirky QWERTY smartphones still have in their hearts: “Will BlackBerry Classic Work in 2022?”. Yes, in a nutshell. And trust me, it’s even better than you think.
 
@@ -71,7 +71,7 @@ At the end of the day, I’ve tested the following apps:
 - Adobe Acrobat. I’ve had an older native version preinstalled and it works. You can install the newer one from an APK and it will work too. Sadly, it’s impossible to sign in.
 - Spotify. Yes, it works. Just make sure to get an older version. Again, it’s possible due to Spotify developers who don’t make breaking changes to their APIs, thus allowing enthusiasts like us to enjoy their service on any device. Unlike some (I’m looking at you, Slack).
 
-![](https://ik.imagekit.io/alxwnth/Alex_s_Thoughts_Archive/Project_20220702_0008_1_.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667572620471)
+<img src="https://ik.imagekit.io/alxwnth/Alex_s_Thoughts_Archive/Project_20220702_0008_1_.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667572620471" class="float-left" width="70%"/>
 
 - Authy. It will scream at you because you don’t have Google Services (why would TOTP app need them anyway?) every time you open the app. Yet, I was able to sign into my services with codes it generated. Storing passwords and using BlackBerry like a digital wallet for authentication and related things is actually a good reason to use it in daily life.
 - Basket. An alternative Dropbox client. It works fine; you just need to obtain the authentication key using a modern smartphone or desktop browser and paste it into the app. It doesn’t seem to work with 2FA, though.

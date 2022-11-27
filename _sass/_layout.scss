@@ -46,31 +46,31 @@
     margin-top: -2rem;
     max-width: $max-width;
 
+    a {
+        color: #222;
+    }
+
+    h1 {
+        font-size: 50px;
+        line-height: 50px;
+        padding-top: 0.5em;
+        text-transform: uppercase;
+        font-family: futura-pt, sans-serif;
+        font-weight: 700;
+        font-style: normal;
+    }
+
     p {
-        font-size: $small-font-size;
+        font-family: futura-pt, sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 20px;
+        line-height: 20px;
+        text-transform: uppercase;
     }
 
     .site-intro {
         font-size: $big-font-size;
-    }
-}
-
-.smallcap {
-    //text-transform: lowercase;
-    //font-variant: small-caps;
-    font-size: 1.5rem;
-    font-weight: bold;
-
-    a,
-    a:hover {
-        text-decoration: none;
-        letter-spacing: 2px;
-        background-color: #333;
-        color: #eee;
-        padding-left: 0.5rem;
-        padding-right: 0.5rem;
-        padding-top: 0.2rem;
-        padding-bottom: 0.2rem;
     }
 }
 
@@ -106,22 +106,26 @@ max-width: $max-width;
     margin-bottom: $spacing-unit / 4;
     list-style-type: none;
     margin-left: -2rem;
+    font-family: futura-pt, sans-serif;
+    font-weight: 400;
+    font-style: normal;
 
     a {
-        color: $text-color;
+        color: #222;
         text-decoration: none;
-        font-weight: normal;
+        font-weight: 400;
+        font-size: 1.6em;
+        text-transform: uppercase;
 
         &:hover {
-            color: $link-color;
-            text-decoration: underline;
+            text-decoration: line-through;
         }
     }
 
     time {
-        font-size: $small-font-size;
-        color: $grey-color;
-        display: inline-block;
+        // font-size: $small-font-size;
+        color: #222;
+        // display: inline-block;
     }
 
     @include media-query($on-palm) {
@@ -141,20 +145,21 @@ max-width: $max-width;
  */
 .post-header {
     margin-bottom: $spacing-unit;
+    color: #222;
+    font-family: futura-pt, sans-serif;
 }
 
 .post-title {
-    font-size: 2rem;
+    font-size: 2.6rem;
     letter-spacing: -1px;
     line-height: 1.2;
     margin-bottom: 0.5rem;
-    font-weight: bold;
+    font-weight: 700;
+    font-style: normal;
+    text-transform: lowercase;
 }
 
 .post-meta {
-    font-size: $small-font-size;
-    font-family: $code-font-family;
-    color: $grey-color;
 
     a,
     a:visited {
@@ -171,9 +176,30 @@ max-width: $max-width;
     }
 }
 
+.go-home {
+
+    font-family: futura-pt, sans-serif;
+    font-style: italic;
+
+    a {
+        color: #222;
+    }
+}
+
 .post-content {
     margin-bottom: $spacing-unit;
-    font-weight: normal;
+    font-family: nimbus-roman, serif;
+    font-weight: 400;
+    font-style: normal;
+
+    p,
+    li {
+        font-size: 1.25em;
+    }
+
+    ul ul {
+        font-size: 0.8em;
+    }
 
     h1,
     h2,
@@ -202,31 +228,64 @@ max-width: $max-width;
     h6 {
         font-size: 1rem;
     }
-}
 
-.copyright {
-    margin-top: $spacing-unit;
-    font-size: $small-font-size;
-    font-family: $code-font-family;
 
-    p {
-        color: $grey-color;
+    .float-left {
+        float: left;
+        margin-left: -21em;
+        padding-right: 2em;
+        padding-bottom: 1em;
+    }
 
-        a,
-        a:visited {
-            color: $grey-color-dark;
+
+    a {
+        text-decoration: underline;
+        text-decoration-style: dotted;
+
+        &:hover {
+            text-decoration: none;
         }
     }
 }
 
-.social ul
-{
+.footer-name {
+    text-transform: uppercase;
+    font-family: futura-pt, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.copyright {
+    margin-top: $spacing-unit;
+    font-family: futura-pt, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #222;
+
+    a {
+        color: #222;
+    }
+}
+
+.license {
+    font-size: 0.85em;
+    width: 50%;
+
+    a {
+        text-decoration: underline;
+
+        &:hover {
+            text-decoration: none;
+        }
+    }
+}
+
+.social ul {
     margin: 0;
     padding: 0;
 }
 
-.social ul li
-{
+.social ul li {
     list-style-type: none;
     display: inline;
 }

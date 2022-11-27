@@ -5,7 +5,7 @@ date:   2022-07-29 00:00:00 +0200
 categories: life
 ---
 
-![](https://ik.imagekit.io/alxwnth/Alex_s_Thoughts_Archive/DSC00515_comp.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1667565527879)
+<img src="https://ik.imagekit.io/alxwnth/Alex_s_Thoughts_Archive/DSC00515_comp.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1667565527879" class="float-left"/>
 
 At some point in my life, I racked up to 8 hours of phone screen time. A whole working day looking at a smartphone screen! Was I writing a breakthrough science paper? No. Arranging business affairs? No. I was scrolling and scrolling through endless feeds of recommended content. Numbing my brain to avoid even the slightest hint of boredom.
 

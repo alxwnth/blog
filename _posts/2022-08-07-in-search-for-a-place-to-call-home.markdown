@@ -5,7 +5,7 @@ date:   2022-08-07 00:00:00 +0200
 categories: personal
 ---
 
-<img src="https://ik.imagekit.io/alxwnth/Alex_s_Thoughts_Archive/20200919_190402.jpg-2.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1667565526167" width=500/>
+<img src="https://ik.imagekit.io/alxwnth/Alex_s_Thoughts_Archive/20200919_190402.jpg-2.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1667565526167" width="90%" class="float-left"/>
 
 When I was a kid, I was somewhat privileged in terms of having my own room during most of my childhood years. Personal space for storing things, playing, studying, and simply spending time is an invaluable asset in the life of any child or teen. Home has always been an integral part of my life. I understand the privilege and bliss of having a family and a home. Knowing you always have someone and somewhere to come back to, no matter how bad life beats you up, is reassuring.
 

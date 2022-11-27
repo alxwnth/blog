@@ -1,4 +1,12 @@
 <div class="copyright">
-    <p>&copy; {{ site.time | date: '%Y' }} <a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}"><strong>{{
-                site.title }}</strong></a></p>
+    {% if page.url != "/" %}
+    <div class="footer-name">
+        <p><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">{{
+                site.title }}</a></p>
+    </div>
+    {% endif %}
+    <div class="license">This work is licensed under a <a rel="license"
+            href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            Commons
+            Attribution-ShareAlike 4.0 International License</a>.</div>
 </div>

@@ -5,7 +5,7 @@ date:   2022-09-10 00:00:00 +0200
 categories: productivity
 ---
 
-![](https://ik.imagekit.io/alxwnth/Alex_s_Thoughts_Archive/how-to-build-simple-productivity-systems.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1667572113342)
+<img src="https://ik.imagekit.io/alxwnth/Alex_s_Thoughts_Archive/how-to-build-simple-productivity-systems.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1667572113342" width="90%" class="float-left"/>
 
 Generally, productivity systems refer to a certain technique or method for completing tasks faster and in larger quantities over a set period of time. It is a common misconception to call methodologies like Getting Things Done, “eat the frog”, Pomodoro, or Eisenhower Matrix “a system”. In reality, they are rarely comprehensive, covering only one or a few aspects of personal productivity instead.
 
@@ -108,11 +108,11 @@ I use Evernote for managing general knowledge and project-related information (b
 
 My notebooks are structured into a few stacks:
 
-![](https://ik.imagekit.io/alxwnth/Alex_s_Thoughts_Archive/Screen_Shot_2022-09-09_at_4.35.36_PM.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667572114412)
+<img src="https://ik.imagekit.io/alxwnth/Alex_s_Thoughts_Archive/Screen_Shot_2022-09-09_at_4.35.36_PM.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667572114412" class="float-left"/>
 
 To be able to quickly find necessary information by topic or kind (or their combination), I use a hierarchical tag system. I also have tags for areas (personal, work) and people (this is mostly used for meeting notes).
 
-![](https://ik.imagekit.io/alxwnth/Alex_s_Thoughts_Archive/Screen_Shot_2022-09-07_at_4.49.59_PM.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667572113975)
+<img src="https://ik.imagekit.io/alxwnth/Alex_s_Thoughts_Archive/Screen_Shot_2022-09-07_at_4.49.59_PM.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667572113975" class="float-left"/>
 
 ### Pocket
 
@@ -132,11 +132,11 @@ I use Things to manage both tasks and projects. Most of my projects are not comp
 
 And speaking about simplicity, here’s how my next actions list looks in Things:
 
-![](https://ik.imagekit.io/alxwnth/Alex_s_Thoughts_Archive/File_07.09.2022__17_19_32.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667572110766)
+<img src="https://ik.imagekit.io/alxwnth/Alex_s_Thoughts_Archive/File_07.09.2022__17_19_32.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667572110766" />
 
 Today’s view:
 
-![](https://ik.imagekit.io/alxwnth/Alex_s_Thoughts_Archive/File_07.09.2022__17_22_22.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667572113361)
+<img src="https://ik.imagekit.io/alxwnth/Alex_s_Thoughts_Archive/File_07.09.2022__17_22_22.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1667572113361"/>
 
 Notice the subtle touches like a project name under the task name and calendar meetings displayed as an agenda instead of being converted to tasks like many apps do.
 
@@ -174,7 +174,7 @@ Occam’s razor, also known as the law of parsimony, states that one should favo
 
 Here’s a wonderful example that illustrates two points: know your tools, and complex doesn’t always mean better.
 
-![](https://ik.imagekit.io/alxwnth/Alex_s_Thoughts_Archive/maxresdefault.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1667572113350)
+<img src="https://ik.imagekit.io/alxwnth/Alex_s_Thoughts_Archive/maxresdefault.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1667572113350"/>
 
 The system in the middle is full of integrations, moving information back and forth between different apps. Yet, one can achieve similar or even better results using something as simple as Apple Notes. All the while, some simpleton will use the same app and accomplish nothing. 
 
@@ -185,6 +185,3 @@ Right after coming up with an idea for this post and starting to work on it, I�
 ![](https://ik.imagekit.io/alxwnth/Alex_s_Thoughts_Archive/Screen_Shot_2022-09-06_at_10.53.16_AM.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667572114689)
 
 The only meaningful tag here is “next” – it means that this is the task I’ll be doing in the near future. All the rest (“offline”, “focus”, “computer”) is my attempt at implementing a context system to filter tasks depending on the state I’m in (focused/braindead) or the device I’m on (tablet/computer/phone). I’ve used this once or twice in the first week and then just forgot about tags and stuck to the next actions list. But I still spent the time assigning meaningless labels to each task. Productivity is about removing friction, so don’t create obstacles in your own way.
-
-![](https://ik.imagekit.io/alxwnth/Alex_s_Thoughts_Archive/Screen_Shot_2022-09-06_at_10.54.03_AM.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667572114123)
-![](https://ik.imagekit.io/alxwnth/Alex_s_Thoughts_Archive/Screen_Shot_2022-09-06_at_10.54.21_AM.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667572114663)
