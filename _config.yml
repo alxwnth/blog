@@ -10,7 +10,6 @@ kramdown:
   input: GFM
 permalink: pretty
 
-google_analytics:
 disqus_shortname: 
 
 github: https://github.com/alxwnth
